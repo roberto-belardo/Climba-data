@@ -1,0 +1,674 @@
+{
+  "nome_regione": "Lazio",
+  "falesie":[
+    {
+      "nome": "Ripa Majala",
+      "lat": "41.6552418",
+      "long": "12.989615",
+      "descrizione": "Bellissima falesia dalla cui cima è possibile vedere il mare di Civitavecchia. La roccia è di tipo vulcanico, compatta e con vie di ogni tipo, da placche liscissime a bei strapiombi a vie molto lunghe. Una falesia tipicamente invernale in quanto molto soleggiata anche se nel settore centrale c'è un mini boschetto sotto il quale ci si può riparare. Molto affollata.",
+      "accesso":"Per arrivare bisogna percorrere l'A12 sino al punto in cui questa si riunisce con la SS1 Aurelia direzione Grosseto. Superato un distributore Agip sulla carreggiata opposta (direzione Roma), dopo circa 1 km, si incontra una svolta sulla destra, una volta in corrispondenza di un piccolo chiosco. Per riconoscere la svolta si può fare caso alle numerose cassette postali presenti all'ingresso della via. Seguire la strada che attraversa i campi. Dopo circa 7 km dal bivio si può parcheggiare lungo la strada e avviarsi a piedi verso la falesia, visibile dal punto in cui si parcheggia, oltrepassando una cancellata e poi ancora una seconda. Si passa dentro un terreno privato. L'avvicinamento dura circa 15 minuti.",
+      "provincia": "Latina",
+      "provinciaShort": "LT",
+      "settori":[
+        {
+          "nome": "Settore principale",
+	      "vie": [
+			  {
+	              "grado": "7a",
+	              "nome": "Mastica zi"
+	          },
+	          {
+	              "grado": "7a+",
+	              "nome": "Alta marea"
+	          },
+	          {
+	              "grado": "6b+",
+	              "nome": "Gioia e rivoluzione"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Mamma li turchi"
+	          },
+	          {
+	              "grado": "6c",
+	              "nome": "Senza nome 1"
+	          },
+	          {
+	              "grado": "7a",
+	              "nome": "Acqua azzurra"
+	          },
+	          {
+	              "grado": "6b",
+	              "nome": "Maremma maiala"
+	          },
+	          {
+	              "grado": "6b+",
+	              "nome": "Passalento"
+	          },
+	          {
+	              "grado": "8a+",
+	              "nome": "San souffl\u00e8"
+	          },
+	          {
+	              "grado": "7b+",
+	              "nome": "Passaveloce"
+	          },
+	          {
+	              "grado": "6a+",
+	              "nome": "Senza nome 2"
+	          },
+	          {
+	              "grado": "7a+",
+	              "nome": "Variante de Alla larga i farisei"
+	          },
+	          {
+	              "grado": "7b",
+	              "nome": "Alla larga i farisei"
+	          },
+	          {
+	              "grado": "6c+",
+	              "nome": "Polemika"
+	          },
+	          {
+	              "grado": "6b+",
+	              "nome": "Ore perse"
+	          },
+	          {
+	              "grado": "7b+",
+	              "nome": "Necrosi muscolare"
+	          },
+	          {
+	              "grado": "6c+",
+	              "nome": "Lo scudo di Avalon"
+	          },
+	          {
+	              "grado": "7b+",
+	              "nome": "DiscantoMediterraneo"
+	          },
+	          {
+	              "grado": "6a+",
+	              "nome": "Mediterranea L1"
+	          },
+	          {
+	              "grado": "7a+",
+	              "nome": "Mediterranea L1 + L2"
+	          },
+	          {
+	              "grado": "6b",
+	              "nome": "Falce e martello"
+	          },
+	          {
+	              "grado": "8b",
+	              "nome": "Potere operaio"
+	          },
+	          {
+	              "grado": "7b+",
+	              "nome": "Lotta continua"
+	          },
+	          {
+	              "grado": "8a",
+	              "nome": "Sinistra antagonista"
+	          },
+	          {
+	              "grado": "8c+",
+	              "nome": "Siegfried"
+	          },
+	          {
+	              "grado": "6c+",
+	              "nome": "L'ora d'aria"
+	          },
+	          {
+	              "grado": "7b",
+	              "nome": "Legalizzatela L1"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "Dose media giornaliera L1"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Dose media giornaliera L2"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "Variante tossica"
+	          },
+	          {
+	              "grado": "5b+",
+	              "nome": "Modica quantit\u00e0"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "Il velo di Maia L2"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Brilligi\u00f9 L2"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Wadi Rum L2"
+	          },
+	          {
+	              "grado": "6b",
+	              "nome": "La dama del lago L2"
+	          },
+	          {
+	              "grado": "Sconosciuto",
+	              "nome": "Metropolis L2"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Mezza sega L2"
+	          },
+	          {
+	              "grado": "6b",
+	              "nome": "Gola profonda L2"
+	          },
+	          {
+	              "grado": "6b",
+	              "nome": "Istigazione a delinquere L2"
+	          },
+	          {
+	              "grado": "Sconosciuto",
+	              "nome": "La pagherete cara la pagherete tutti L2"
+	          },
+	          {
+	              "grado": "6c",
+	              "nome": "Io sono il vento L2"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Microcriminalit\u00e0"
+	          },
+	          {
+	              "grado": "5c+",
+	              "nome": "Ca z o"
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "Boh!"
+	          },
+	          {
+	              "grado": "5b+",
+	              "nome": "Se la conosci la eviti"
+	          },
+	          {
+	              "grado": "5a+",
+	              "nome": "Fax totum"
+	          },
+	          {
+	              "grado": "5b+",
+	              "nome": "Fra la via Aurelia ed il West"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Mezza sega"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Re.Le."
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "Foxtrot"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "La Ciociara volante"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "La Cia ci spia"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Eskimo"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Il migliore"
+	          },
+	          {
+	              "grado": "6b+",
+	              "nome": "Dolores de panzas"
+	          },
+	          {
+	              "grado": "7a",
+	              "nome": "Manipolazione genetica"
+	          },
+	          {
+	              "grado": "6b+",
+	              "nome": "Porci con le ali"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "Amico fragile"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Maiale incontinente"
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "La normale"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "Diavoli al culo L2"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "La spinosa"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "Variante La spinosa"
+	          },
+	          {
+	              "grado": "5c+",
+	              "nome": "Vitto e alloggio"
+	          },
+	          {
+	              "grado": "7a",
+	              "nome": "Soviet supremo"
+	          },
+	          {
+	              "grado": "7b",
+	              "nome": "Comitato centrale"
+	          },
+	          {
+	              "grado": "6c+",
+	              "nome": "G.A.C."
+	          },
+	          {
+	              "grado": "6c+",
+	              "nome": "Hermes"
+	          },
+	          {
+	              "grado": "6b",
+	              "nome": "Ostpolitk"
+	          },
+	          {
+	              "grado": "4c",
+	              "nome": "Ripa libera"
+	          },
+	          {
+	              "grado": "7b+",
+	              "nome": "Socialismo reale"
+	          },
+	          {
+	              "grado": "6c",
+	              "nome": "La lunga marcia"
+	          },
+	          {
+	              "grado": "6a+",
+	              "nome": "Pista Ho Chi Minh"
+	          },
+	          {
+	              "grado": "5b+",
+	              "nome": "Il baratro L2"
+	          },
+	          {
+	              "grado": "5b+",
+	              "nome": "Il rosso e il nero L2"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "Tg 0 L2"
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "Samarcanda L2"
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "Truffa truffa ambiguit\u00e0 L2"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Mi manda Lubrano L2"
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "Cazzarola L2"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "Sole nero L2"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "Rapsodia in rosso L2"
+	          },
+	          {
+	              "grado": "6b",
+	              "nome": "Tempi bui L2"
+	          },
+	          {
+	              "grado": "7a",
+	              "nome": "Grilletto di Dio L2"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Fidel L2"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "Sendero luminoso"
+	          },
+	          {
+	              "grado": "6b",
+	              "nome": "Tupak amaros"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "Via di 1/2"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "Nannolino cerca l'acqua"
+	          },
+	          {
+	              "grado": "5b+",
+	              "nome": "Culo di gomma"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Ottobre rosso"
+	          },
+	          {
+	              "grado": "6b+",
+	              "nome": "Regina della notte"
+	          },
+	          {
+	              "grado": "6b",
+	              "nome": "Un grammo di paura"
+	          },
+	          {
+	              "grado": "6a+",
+	              "nome": "Pugni chiusi"
+	          },
+	          {
+	              "grado": "6b+",
+	              "nome": "Nati in cattivit\u00e0"
+	          },
+	          {
+	              "grado": "6c",
+	              "nome": "Anni di piombo"
+	          },
+	          {
+	              "grado": "6b+",
+	              "nome": "Il cerchio nella roccia"
+	          },
+	          {
+	              "grado": "7b",
+	              "nome": "Male oscuro"
+	          },
+	          {
+	              "grado": "5c+",
+	              "nome": "Ekkecazzo"
+	          },
+	          {
+	              "grado": "7b",
+	              "nome": "Variante Giancola"
+	          },
+	          {
+	              "grado": "7a+",
+	              "nome": "Diserta il deserto"
+	          },
+	          {
+	              "grado": "6c+",
+	              "nome": "Rote armee fraktion"
+	          },
+	          {
+	              "grado": "6b+",
+	              "nome": "Balloancora"
+	          },
+	          {
+	              "grado": "6c",
+	              "nome": "Il mestiere di vivere"
+	          },
+	          {
+	              "grado": "7a+",
+	              "nome": "Nulla"
+	          },
+	          {
+	              "grado": "7b",
+	              "nome": "Spiritosa"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Capelli bianchi"
+	          },
+	          {
+	              "grado": "4c",
+	              "nome": "Il tempo \u00e8 tiranno"
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "Senilit\u00e0"
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "Via della terza et\u00e0"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Polli di allevamento"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Mea culpa"
+	          },
+	          {
+	              "grado": "5b+",
+	              "nome": "Ecce bombo"
+	          },
+	          {
+	              "grado": "6c",
+	              "nome": "Montagna ladra"
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "Allegro ma non troppo"
+	          },
+	          {
+	              "grado": "4b",
+	              "nome": "Variante tazbau"
+	          },
+	          {
+	              "grado": "4c",
+	              "nome": "Meco Joni"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Il Manifesto"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Vita a colori"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "Spigolando"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "Pio 6 1 dio"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "1960/2010"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "La placca di Marco"
+	          },
+	          {
+	              "grado": "4c",
+	              "nome": "Fessura"
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "Diedro dei 3 gechi"
+	          },
+	          {
+	              "grado": "4c",
+	              "nome": "Diedrino di dx"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Vecchi e vecchioni"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "Lo scherzetto"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Le due fessure"
+	          }
+	      ]
+        },
+        {
+          "nome": "Settore secondario",
+	      "vie": [
+	          {
+	              "grado": "4b",
+	              "nome": "Facile \u00e8 bello"
+	          },
+	          {
+	              "grado": "4b",
+	              "nome": "Il vecchio che avanza"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "La cucina di Marina"
+	          },
+	          {
+	              "grado": "4c",
+	              "nome": "Le ricette di Marina"
+	          },
+	          {
+	              "grado": "4c",
+	              "nome": "Crick e Crock"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Alicetta forever"
+	          },
+	          {
+	              "grado": "5a+",
+	              "nome": "Barman e Robin"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Ragazzo di Calabria"
+	          },
+	          {
+	              "grado": "4b",
+	              "nome": "Specchio al sole"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "Nonni folli"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Pio amore mio"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Ultimo sole"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "Il ruggito del coniglio"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "Occhio al nodo"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "La pera amara"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "Teo dove sei? (variante d'attacco)"
+	          },
+	          {
+	              "grado": "4b",
+	              "nome": "Teo dove sei?"
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "Lichene a gogo"
+	          },
+	          {
+	              "grado": "4c",
+	              "nome": "Il geco ci guarda"
+	          },
+	          {
+	              "grado": "5b+",
+	              "nome": "Via la folla"
+	          },
+	          {
+	              "grado": "5c+",
+	              "nome": "Tettino dello speziale"
+	          },
+	          {
+	              "grado": "6a",
+	              "nome": "Il pilastrino giallo"
+	          },
+	          {
+	              "grado": "4b",
+	              "nome": "Diedro di Roberto"
+	          },
+	          {
+	              "grado": "4b",
+	              "nome": "Il muschio selvaggio"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Spigolo di Roberto"
+	          },
+	          {
+	              "grado": "5c",
+	              "nome": "Il buco malefico"
+	          },
+	          {
+	              "grado": "5c+",
+	              "nome": "Fatti e misfatti"
+	          },
+	          {
+	              "grado": "5b",
+	              "nome": "Il moschettone rubato"
+	          },
+	          {
+	              "grado": "4b",
+	              "nome": "La spinosa"
+	          },
+	          {
+	              "grado": "4a",
+	              "nome": "Fessurina"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Ritorno di Gabri"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "La bomba"
+	          },
+	          {
+	              "grado": "5a",
+	              "nome": "Grotta"
+	          }
+	      ]
+        }
+      ]
+    }
+  ]
+}

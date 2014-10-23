@@ -10,7 +10,7 @@ A community driven json database of italian climbing spots with sector, routes a
 - [Contributors](#contributors)
 - [Credits](#links)
 - [License](#license)
-- 
+
 ## What is Climba-data
 
 ## Contributors

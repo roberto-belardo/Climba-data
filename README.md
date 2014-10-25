@@ -1,4 +1,4 @@
-![Climba Logo](http://i.imgur.com/1swYljB.png)
+![Climba Logo](http://i.imgur.com/m8RZceD.png)
 
 Climba-data
 ===========

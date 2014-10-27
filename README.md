@@ -7,7 +7,7 @@ A community driven json database of italian climbing spots with sector, routes a
 
 ## Table of contents
 - [What is Climba-data](#what-is-climba-data)
-- [What can i do with Climba-data?](#what-can-i-do-with-climba-data?)
+- [What you can do with Climba-data](#what-you-can-do-with-climba-data)
 - [Contributors](#contributors)
 - [Credits](#links)
 - [License](#license)
@@ -15,7 +15,7 @@ A community driven json database of italian climbing spots with sector, routes a
 ## What is Climba-data
 Climba-data is a community driven json database of italian climbing spots. 
 
-## What can i do with Climba-data?
+## What you can do with Climba-data
 You can:
 - download it and build whatever you like. We used it to build [Climba](https://github.com/backslash451/Climba), an iOS app.
 - suggest a revision

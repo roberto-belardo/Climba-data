@@ -669,6 +669,616 @@
 	      ]
         }
       ]
-    }
+    },
+	{
+	    "accesso": "Seguendo la strada per Bassiano che si prende da Latina Scalo, si devono superare i bivi per Ninfa, Norma e Sermoneta fino ad arrivare all'Abbazia dove si gira a sinistra. Dopo pochi kilometri e superati due tornanti si può parcheggiare la macchina e prendere il sentierino (non molto visibile) che si immerge nella vegetazione.",
+	    "descrizione": "Una piccola ma splendida falesia immersa nel verde. \nBellissimo il panorama sugli ulivi che si attraversano per raggiungerla. L'avvicinamento è un po impervio per via della fitta vegetazione nel primo tratto.",
+	    "lat": "41.5522068",
+	    "long": "13.0269605",
+	    "nome": "Bassiano",
+	    "provincia": "Latina",
+	    "provinciaShort": "LT",
+	    "settori": [
+	        {
+	            "nome": "Fascia Superiore",
+	            "vie": [
+	                {
+	                    "grado": "5b",
+	                    "nome": "Avanzi"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Speranza"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Miele"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Ali del Cielo"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Fantasmi"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Salsamix"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Re Porcheddu"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Le Sardine"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Mare Acido"
+	                },
+	                {
+	                    "grado": "3c",
+	                    "nome": "Epitaffi Americani"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Suka"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Stile Sovietico"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Dopo lavoro"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Cecchino"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Foresta foresta"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "L'arca di No\u00e8"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Ponte verso il cielo"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Nati liberi"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Anno zero"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Paramecio"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Notte placida"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Jeti"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Assist"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Scoglio dell'Araguna",
+	            "vie": [
+	                {
+	                    "grado": "5a",
+	                    "nome": "Etica"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Etnica"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Epica"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Zitrone"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Povidone"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Mondo Topless"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "The flying lizard L2"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Sesso debole"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "L'omo delle taverne"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Carpe diem"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "D'Artagnan e i tre moschettoni"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Abbasso la pace...(dei sensi)"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Insalata mistica"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Curami"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Balle spaziali"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Variante balle"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "La Pietra Filosofale"
+	                },
+	                {
+	                    "grado": "8a+",
+	                    "nome": "Beverly Hills 90210"
+	                },
+	                {
+	                    "grado": "7c",
+	                    "nome": "Armaduk Klarm\u00e0n"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Lo scoglio dell'Araguna"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Pumpido"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "El ciuccio"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Clodobeo ed il mulo a tre teste"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Idoli di pietra"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Fabrizio e la naja"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Alto gradimento"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Viaggio nell'oscurit\u00e0"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Punji e il lama"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "L'imperatore"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Ezechiele lupo crudele"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Nati con la camicia"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Allocco patalocco"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Ruggaemuffin"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Ghostbuster"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Uscita numero uno"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "Darkman"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "La vita l'\u00e8 bela"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Il promesso sposo"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Sancio Panza"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "La topa sulla tipo"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "La penitenza"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Segnali di fumo"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Pensile",
+	            "vie": [
+	                {
+	                    "grado": "6b",
+	                    "nome": "Dragon"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Tow"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Game over"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Ramath il fachiro"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Kandrax"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "I falchi delle nevi"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Aerobic girl"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Cold hands"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Furuf\u00f9"
+	                },
+	                {
+	                    "grado": "7c",
+	                    "nome": "La dea bianca"
+	                },
+	                {
+	                    "grado": "7c+",
+	                    "nome": "Il regno delle aquile"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "La prova suprema"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Il miraggio"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Superpippa"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Uno sherpa a Ferentillo"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Stefano fotomodella dell'anno"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Il mostro volante"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Ottobre rosso"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Barriera Corallina",
+	            "vie": [
+	                {
+	                    "grado": "5c",
+	                    "nome": "Barriera Corallina"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Cercatori di Perle"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Re di Okuto"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Re di Nanto"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Provaso"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Papero"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "O' Zappatore"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Il Re Leone"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Luna Park"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Nebbia"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Harem"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Gecolandia",
+	            "vie": [
+	                {
+	                    "grado": "6c+",
+	                    "nome": "By pass"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Radio Kabul"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Anthrax"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "La mantide miscredente"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Nova urbs"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Miti moderni"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Mammut"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Noi conquisteremo la Luna"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Io e Olga"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Istanbul dance"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Punk Islam"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Souvenir"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Grotta del Pipistrello",
+	            "vie": [
+	                {
+	                    "grado": "5c",
+	                    "nome": "Patos"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Fato"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Cielo finto"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "17 re"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Cavalieri templari"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Occhio dell'anima"
+	                },
+	                {
+	                    "grado": "7c+",
+	                    "nome": "L'ultima luna"
+	                },
+	                {
+	                    "grado": "7c",
+	                    "nome": "Libera-mente"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "L'esibizionista"
+	                },
+	                {
+	                    "grado": "7c+",
+	                    "nome": "Qual \u00e8 il problema"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Rombo di tuono"
+	                },
+	                {
+	                    "grado": "7c+",
+	                    "nome": "Spiriti delle tenebre"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Anubi"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Mineral spirit"
+	                },
+	                {
+	                    "grado": "7c+",
+	                    "nome": "Invasione letale"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Lo Scrigno",
+	            "vie": [
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "T & t"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Purity test"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Vuoto a perdere"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Lasagna"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Uffi"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Spirito"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Settembre"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Ponte d'Oriente"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Laguna tropicale"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Regina della notte"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Romantica"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Bat Home"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Mah"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Rumori"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Amaro calice"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Placcati"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Scrigno"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Per qualche fix in pi\u00f9"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Appaia"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Aforismi"
+	                }
+	            ]
+	        }
+	    ]
+	}
   ]
 }

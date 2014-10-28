@@ -8,6 +8,7 @@ A community driven json database of italian climbing spots with sector, routes a
 ## Table of contents
 - [What is Climba-data](#what-is-climba-data)
 - [What you can do with Climba-data](#what-you-can-do-with-climba-data)
+ - [Project Structure](#project-structure)
 - [Contributors](#contributors)
 - [Credits](#links)
 - [License](#license)
@@ -20,6 +21,23 @@ You can:
 - download it and build whatever you like. We used it to build [Climba](https://github.com/backslash451/Climba), an iOS app.
 - suggest a revision
 - add a new climbing spot
+
+### Project Structure
+Climba-data is structured as a list of json files, one for each italian region. To add a new region file please just copy the syntax used in Lazio.json.
+
+Every climbing spot should have at least the following informations:
+ - Name
+ - Latitude
+ - Longitude
+ - Access infos
+ - Description
+ - Province
+ - Province code
+ - List of sectors
+  - sector name
+  - list of routes
+   - route name
+   - route grade
 
 ## Contributors
 <a href="https://twitter.com/robertobelardo" target="_blank"><img src="https://avatars3.githubusercontent.com/u/43101?v=2&s=96" alt="Roberto Belardo"></a>  

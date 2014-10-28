@@ -13,7 +13,7 @@ A community driven json database of italian climbing spots with sector, routes a
 - [License](#license)
 
 ## What is Climba-data
-Climba-data is a community driven json database of italian climbing spots. 
+Climba-data is a community driven json database of italian climbing spots. The list of all available climbing spots is on this project's [Wiki](https://github.com/backslash451/Climba-data/wiki/Lista-falesie).
 
 ## What you can do with Climba-data
 You can:

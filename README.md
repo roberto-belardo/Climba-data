@@ -11,6 +11,7 @@ A community driven open source json database of italian climbing spots with sect
  - [Project Structure](#project-structure)
 - [Contributors](#contributors)
 - [Credits](#links)
+- [Copyright](#copyright)
 - [License](#license)
 
 ## What is Climba-data
@@ -51,6 +52,9 @@ Every climbing spot should have at least the following informations:
  - [Facebook](https://www.facebook.com/climba.app.page)
  - [Twitter](https://twitter.com/climba_app)
  - [Blog](http://backslash451.github.io)
+
+## Copyright
+Climba-data is a free, open source, community driven project. This doesn't mean you can steal other's material and copy it here. So please, please, please, do not steal other's people job.
 
 ## License
 This work is licensed under a **Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License**. 

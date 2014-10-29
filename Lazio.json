@@ -1655,6 +1655,332 @@
 	            ]
 	        }
 	    ]
+	},
+	{
+	    "accesso": "Per raggiungere la falesia di Caprile si deve percorrere l'autostrada Roma - Napoli ed uscire a Pontecorvo. Continuare seguendo le indicazioni per Castrocielo e poi per Caprile - Roccasecca. Arrivati a Caprile si può parcheggiare e cominciare a salire i vicoli del paese seguendo le indicazioni per la chieda di Santa Maria dell Grazie, continuando sulla scalinata fino alla fine del paese da dove si prende un sentiero che porta alla falesia.",
+	    "descrizione": "Caprile è una delle più interessanti falesie nella provincia di Frosinone. Si trova nella frazione di Caprile (Roccasecca) e dalla falesia è possibile godere di un bellissimo paesaggio.",
+	    "lat": "41.5437712",
+	    "long": "13.6777005",
+	    "nome": "Caprile",
+	    "provincia": "Frosinone",
+	    "provinciaShort": "FR",
+	    "settori": [
+	        {
+	            "nome": "Primo Settore",
+	            "vie": [
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Senza nome 1"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Senza nome 2"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Senza nome 3"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Senza nome 4"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Fanaticaria"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 5"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Pancia pelosa"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Culo (Cialis?)"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Questa non l'hai fatta Fr\u00e0?"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Lo svitamiti"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Caprile dreaming"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "La bua"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 6"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Senza nome 7"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Senza nome 8"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "30 bare"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 9 L1"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 9 L2"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 10 L1"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 10 L2"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 11"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Senza nome 12"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Senza nome 13"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Senza nome 14"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Senza nome 15"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 16"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Senza nome 17"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Ludo"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Salsiccia"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Senza nome 18"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Wish you where here"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Zio Alx"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "acCiuffaPolli"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Le Grandi Panze",
+	            "vie": [
+	                {
+	                    "grado": "4c",
+	                    "nome": "Senza nome 1"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 2"
+	                },
+	                {
+	                    "grado": "4c+",
+	                    "nome": "La pececa"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Buccia d'arancia"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 3"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Giovanna d'Arco"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Cirrosi sciatica"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Sesto acuto"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Centerbe"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Acido lattico"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Senza nome 4"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "Cioppi Cioppi"
+	                },
+	                {
+	                    "grado": "5a+",
+	                    "nome": "Senza nome 5"
+	                },
+	                {
+	                    "grado": "5a+",
+	                    "nome": "Sale e basta"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "La biomeccanica"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Job"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Senza nome 6"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "I Gradoni",
+	            "vie": [
+	                {
+	                    "grado": "4a",
+	                    "nome": "Senza nome 1"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Senza nome 2"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 3"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 4"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Diedro sporcaccione"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Tagliaspinoterapia"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 5"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Tre di gobbe"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Quilk (Domatore di vermi)"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Lucigolett"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Neutroni"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Mim\u00ed Coc\u00f2"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Senza nome 6"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Mani di forbice"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Peppe dek"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Fiasco collection"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Lo scambista"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Anticelli"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Tritadita"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "B-107-K"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Superkactus"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Collaborazione"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Bocca figa"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Senza nome 7"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Senza nome 8"
+	                }
+	            ]
+	        }
+	    ]
 	}
   ]
 }

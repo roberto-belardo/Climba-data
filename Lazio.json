@@ -1279,6 +1279,382 @@
 	            ]
 	        }
 	    ]
+	},
+	{
+	    "accesso": "Per raggiungere la falesia di Ciampino si deve percorrere la S.S.Appia sino all'incrocio con via di Fioranello. Percorrendola si incontra subito l'Appia Antica. Si può parcheggiare su via di Fioranello ma attenzione a parcheggiare sull'Appia Antica in quanto vietato e soggetto a multe. La falesia risulta poco visibile in quanto sita sotto il livello stradale. Superando un piccolo muretto la falesia risulta evidente.",
+	    "descrizione": "Ciampino è la falesia della capitale, la più vicina e la più frequentata dai climbers romani. Si trova in una vecchia cava romana di leucite utilizzata per la produzione dei 'San Pietrini', nel parco regionale dell'Appia Antica. Purtroppo sia il tipo di roccia che la scarsa manutenzione non la rendono la più sicura delle falesie del Lazio. Inoltre in tarda ora la zona non è ben frequentata.",
+	    "lat": "41.802425",
+	    "long": "12.6021389",
+	    "nome": "Ciampino",
+	    "provincia": "Roma",
+	    "provinciaShort": "RM",
+	    "settori": [
+	        {
+	            "nome": "Settore principale",
+	            "vie": [
+	                {
+	                    "grado": "6a",
+	                    "nome": "Sauron"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Vladivostock"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Canalino"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Ciollospit"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Passera scopaiola"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Davide"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Arrapao"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "L'apetta"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Marco"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Chicco"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Petricolovic"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Golia"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "5 figli"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Il filo di Arianna"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Vai vai"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Turbolenta"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Veroniky"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Buchetti"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Il mostro"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "3 chiodi"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Biancaneve"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "La sedia del diavolo"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Aiutatemi"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Rider\u00f2 quando tu piangerai"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Tette di Paola"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Il gomito"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Micaela"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Ardito Desio"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Sabina"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Ciampinari allenateve"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Scivolo"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Senza nome 1"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Rossella"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Holly Hobby"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Federica"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Variante Fo"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "A dorso di lama"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "15 ottobre"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Spigolo pazzo"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Millepiedi"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Gastone"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "L'acchiappatore dell'acqua"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Obsession"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Pilastro"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Mamma"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Mir"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Mannaggia er core"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Spigola"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Sandrogatt"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Gatto Silvestro"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Il tetto"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Superpippo"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Michelangelo"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Titti"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Polvere orrida"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Diedro le quinde"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "La foto"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Non per Titti"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Fragolino"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "Assolo"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Viviana"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Canoa-polo"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Minefield"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Annalisa"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Spigoletto"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Inquietanti fermenti..."
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Via della placca"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Dito prensile"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Sorci verdi"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Stanchezza meditativa"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Pensando a Cristiana"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Evita la fratta"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "3b0"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Haiku"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Edith"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Maristella"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Take that"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "La libert\u00e0 di Karin"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Gabiballi"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "L'attimo sfuggente"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Pipistrello"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Grazie Mario"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Sar\u00e0 jevo"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Il cetnico"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Moments"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Giulia"
+	                },
+	                {
+	                    "grado": "3a",
+	                    "nome": "18 luglio (variante)"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "18 luglio"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Nonciollospit"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Annalisa"
+	                }
+	            ]
+	        }
+	    ]
 	}
   ]
 }

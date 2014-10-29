@@ -1981,6 +1981,238 @@
 	            ]
 	        }
 	    ]
+	},
+	{
+	    "accesso": "Per arrivare a Configni si deve seguire l'A1 in direzione Firenze, uscire a Ponzano Soratte e dirigersi verso Stimigliano e poi ancora verso Poggio Mirteto proseguendo sulla SS 657. Al bivio con la SS 313 in direzione Terni. Seguendo le indicazioni si arriva a Configni dove si può parcheggiare nella piazza del paese oppure provare ad affrontare la salita che porta alla falesia con la macchina. Attenzione alla frizione! Arrivati in cima alla salita basta seguire il sentiero che supera il cancello.",
+	    "descrizione": "Configni è una falesia grande e sostanzialmente separata in due. Nella sezione sinistra le vie sono sovragradate mentre nella sezione destra le vie sono più equilibrate. La parte sinistra della falesia si trova in un boschetto ombroso molto gradevole d'estate (se non fosse per le zanzare...) ma il terreno è parecchio in pendenza quindi fare sicura a volte può risultare scomodo.",
+	    "lat": "42.419379",
+	    "long": "12.640735",
+	    "nome": "Configni",
+	    "provincia": "Rieti",
+	    "provinciaShort": "RI",
+	    "settori": [
+	        {
+	            "nome": "Settore principale",
+	            "vie": [
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Cip"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Ciop"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "The Eye"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "1998"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Tettino"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Arianna"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Ale"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Brick"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Rino"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Il Sole"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Hot jazz"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Hard rock"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Zoom"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Grazie Mario"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Alfio"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Bye bye baby"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Paperino"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Qui"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Quo"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Qua"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Paperoga"
+	                },
+	                {
+	                    "grado": "3a",
+	                    "nome": "Ra L1"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Ra L2"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "3m"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Xiatien L1"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Xiatien L2"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Le du socere - Schiodata"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Cetlen"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "L'urlo"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Jambo"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Pilastrino"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Variante sx Il pilastrino"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Califano"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Hagrid"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Litodomi"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Shamshi"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Leo Tre Caff\u00e8"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Il calderone celtico"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "I tozzetti di Anna"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Magica bula"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Wang"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "I confini di Configni"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Ai Configni della Realt\u00e0"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Rinascita di Configni"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "La giostra di zazza"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Mi faccio il riccio"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Adesso basta"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Piccoli passi"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "La palma di Configni"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "L'isola di Configni"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Il tappezziere ingiallito"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Gli accimatori"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Configni a 360"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Il prugnolo"
+	                }
+	            ]
+	        }
+	    ]
 	}
   ]
 }

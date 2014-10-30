@@ -2839,6 +2839,739 @@
 	            ]
 	        }
 	    ]
+	},
+	{
+	    "accesso": "Prendere l'A1 Roma-Napoli uscita S.Cesareo. Attraversare S.Cesareo e seguire le indicazioni per Palestrina. Poi proseguire per Castel S.Pietro Romano e Capranica Prenestina. Da qui continuare a sinistra per Guadagnolo, fino a giungere in paese. Giunti in piazza, scendere a sinistra e parcheggiare. Si parcheggia al piazzale e si va a piedi al monumento dei caduti. Si scavalca la ringhiera e si scende alla cengia dalla quale partono le falesie.",
+	    "descrizione": "Falesia ampia, isolata e immersa nella campagna. \nLa roccia \u00e8 calcare compatto e levigato che resta in ombra fino a mezzogiorno. \nPeriodi consigliati: Maggio-Giugno e Settembre-Ottobre\nConsigliata corda da 70 metri.",
+	    "lat": "41.9120143",
+	    "long": "12.930052",
+	    "nome": "Guadagnolo",
+	    "provincia": "Roma",
+	    "provinciaShort": "RM",
+	    "settori": [
+	        {
+	            "nome": "Fascia Superiore",
+	            "vie": [
+	                {
+	                    "grado": "5c",
+	                    "nome": "Via prima"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "A sx della cipolla"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Cipolla"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Il puffo"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Una presa per..."
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Ermete"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Diedro di Gigi"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "Eclissi parziale"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Stanchezza"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Pegaso"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Diedrino a sx di Thick as brick"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Thick as brick"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Spigolo a dx di Thick as brick"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "La sfinge"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Variante a dx de La sfinge"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Kathrin"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Pilastro Giulia"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Spigolo di Roberto"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Il ritorno di Memmo"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Arcobaleno"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Ultima spiaggia"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "I gemelli"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "Nuova Via dei tre"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "A sx di Timshel"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Timshel"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Wambli"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Luce della notte"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Via dei Tre"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Lo scippo"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "3 ch."
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Spigolo"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "Sirtaki L1"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Sirtaki L2"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Meticcio"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Mario"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Vicus Maria"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Laura"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Paola"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "I gheppi"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Il pirata"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "El camino"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Groviera"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "La lieta sorpresa. (Groviera L2)"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Prurito"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Pedalino"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Hantayo"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Hantayo bis"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Il nocciolo L1"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Il nocciolo L2"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Un due 3"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Revolver"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Flavietta 1"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Flavietta 2"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "In fondo..."
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Furia"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "17 luglio"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "La via degli Abruzzesi L2"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Sassetto"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Cime tempestose"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Spigolone L1"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Spigolone L1 + L2"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Via del pesce"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Pilastro Giancarlo"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Pier & Mat L1"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Pier & Mat L2"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Vecchio Tito L1"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Vecchio Tito L2"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Via Salaria"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "3 orizzontale"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Tutto il resto \u00e8 noia"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "L'amara"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Via dei lecci L1"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Via dei lecci L2"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Mal\u00e8"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Senza nome 1"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Mario Prioreschi"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Il bivio"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Variante diretta di Evoluzione"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Evoluzione"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Memmo e Till diretta"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Via dei cavalieri"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Il giovane tipografo"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Il professore"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Opera"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Nonno C+"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Claudia"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "Colibacillo"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Valentina"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Via del masso caduto L1"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Via del masso caduto L2"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Diretta Masso caduto"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Mister x"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Miss Lilli"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Angelo volante"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "3 F"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Merni bassa L1"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Merni bassa L2"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Merni bassa L3"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Variante Merni bassa L3"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Moments"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Fabio Simeoni"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Addio libert\u00e0"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Aspra e dolce"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Tira tira"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "A sinistra di Mao"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "I bilancioni"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "Mao"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "La dieta"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Pancia di Mao"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Il roscio"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Le 3M"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Il pelato"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Il tignoso"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Camino Jannetta"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Spigolo di Sandra"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "La ballerina"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "F. C."
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Scogliattolo"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Dove tocchi tocchi bene"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Spigolo Sud"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Giacchetta"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Salad\u00e8"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Spigolo tagliente"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Talebani"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Futuro"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Convergenze parallele"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Fessura a sinistra del martello"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Us & th'emm"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Martello"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Spigolo del martello"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Enfasi"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Senza nome 1"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Spigolo breve"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Il fanciullo"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Spigolo del mistero"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "T.N.T."
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Spettri"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "La nascita"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Piero Bombega"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Serpico"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Settea"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Lucky man"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Variante dx Lucky Man"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Strapiombando"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Sette a meno"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Platoon"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Nuovi orizzonti"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Massimo Nardecchia"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "The Wall"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Ho partorito un draghetto"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Ballatoio sospeso"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Il giraffone"
+	                },
+	                {
+	                    "grado": "5a+",
+	                    "nome": "Alp"
+	                },
+	                {
+	                    "grado": "5a+",
+	                    "nome": "Grillo"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Sopra il cavo d'acciaio"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Elfi"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Flash"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Donatella"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "No war"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Frippo frippo"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Fascia Inferiore",
+	            "vie": [
+	                {
+	                    "grado": "4a",
+	                    "nome": "Bottamani"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Mazzetta"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Recondita armonia"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Crak"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Lady Hawk"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Fire"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "I fratelli Br\u00f2"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Non sporgetevi"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Escargot"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Meridiana"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Due come noi"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Star trekking"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Noi due"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Io solo"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Sono rimasto solo"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Nebraska"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Il mistico"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Diedro"
+	                }
+	            ]
+	        }
+	    ]
 	}
   ]
 }

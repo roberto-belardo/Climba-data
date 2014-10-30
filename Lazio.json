@@ -2213,6 +2213,632 @@
 	            ]
 	        }
 	    ]
+	},
+	{
+	    "accesso": "Si prende la A1 direzione Napoli e si esce a Frosinone. Poi si seguono le indicazioni per il paese di Supino, lo si oltrepassa e si seguono le indicazioni per la Fontana di Santa Serena. A circa un\u2019ora e un quarto dalla capitale siete arrivati ad uno spiazzo con una fontana sulla destra. Potete parcheggiare e avrete di fronte un pendio boscoso e un po\u2019 roccioso da cui si ergono, a neanche 5 minuti, le pareti.",
+	    "descrizione": "Supino, falesia immersa nel bosco, si trova in quota, sulle pendici dei Monti Lepini e inizia ad andare in ombra dalle 15.00. Ci sono 7 settori, ma Supino Bassa \u00e8 la pi\u00f9 frequentata (e forse la pi\u00f9 bella). Il calcare \u00e8 grigio e le sfumature sul giallo denotano zone con minore aderenza, ma nel complesso la falesia va assolutamente visitata.",
+	    "lat": "41.6031895",
+	    "long": "13.1855702",
+	    "nome": "Supino",
+	    "provincia": "Frosinone",
+	    "provinciaShort": "FR",
+	    "settori": [
+	        {
+	            "nome": "Maiale degli Dei",
+	            "vie": [
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Marylin"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "La banda del fiasco"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Delta Sport production"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "New Carboneria"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Superluana"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Igor (La maestrina)"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Furto per stregoneria"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Sei fuori tempo"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Test"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Estiquatsi"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Non \u00e8 roba per te"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Stincodisanto"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Cantine e blues"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Evitatela"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Margheritas"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Supino Alta",
+	            "vie": [
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Non lo so"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Senza nome 1"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Cinque dita"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Inductus"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Burosauro"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "La paura fa....spavento"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 2"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 3"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 4"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Senza nome 5"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Neve: note d'inverno"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 6"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Bomba proletaria"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Fiaccola dell'anarchia"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 7"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "To climb Ciociaria '90"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "E = fa2"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Gnoccabicocca"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Crostamix"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Diritto di precedenza"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "M\u00f2 guai"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Guai m\u00f2"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 8"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Una classe per il maestro"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Senza nome 9"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Senza nome 10"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Supino Bassa",
+	            "vie": [
+	                {
+	                    "grado": "6b",
+	                    "nome": "Purple haze"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Scanners"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Fra.gi.le."
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Snoopy"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Furni fuffi"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Herman and July"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Drambuie et Grand Marnier"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Senza nome 1"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Senza nome 2"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Sinapsi"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Joshua"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Husky"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Air walk"
+	                },
+	                {
+	                    "grado": "8a",
+	                    "nome": "Errando discituri"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Il sarchiapone"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Congiunzione astrale negativa"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 3"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Me la compro"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Super Delta Sport"
+	                },
+	                {
+	                    "grado": "7c",
+	                    "nome": "Mariapi'"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Bloom-bloom L1"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Bloom-bloom L2"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Piedi paralleli"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Quale allegria"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "E' nata Sofia L2"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Vestito per uccidere"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Hallo James"
+	                },
+	                {
+	                    "grado": "7c+",
+	                    "nome": "Pas de burrin"
+	                },
+	                {
+	                    "grado": "7c",
+	                    "nome": "Senza nome 4"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Ogni lasciata e' persa"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "La panza avanza"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Troppa trippa"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Variante Pomeriggio pazzo"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Pomeriggio pazzo"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Orchidea selvaggia"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Senza nome 5"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Sinceramente bugiardi"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Zot"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 6"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 7"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Diavolo rosso"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Foxy Lady"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Take it easy"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Antisociale"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Il sociale"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Gli impermeabili"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 8"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 9"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Variante di Senza nome 9"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Ciajkowski"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Mister volare"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Senza nome 10"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Senza nome 11"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Senza nome 12"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Therma rest"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Fuliggine"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Polo negativo"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Polo positivo"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Senza nome 13"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Anche le capre cadono"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Ciak"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Valle delle seghe",
+	            "vie": [
+	                {
+	                    "grado": "6a",
+	                    "nome": "Arcigatto"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Ce n'est pas un debut"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Capelli di grano"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Scusi pardon"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Sotto le stelle del jazz"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Blue tango"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Mr. Jave"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Danza cinese"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Long long drink"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Io sono il vento"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Ragazze zero"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "Il maestro e' nell'anima"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Grado alcolico"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Spassiunatamente"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Avanzi"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Concetto spaziale"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Dio perdona, io no"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Zeke zeke zeke ze'"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Bianco fiore"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Paris Milonga"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "A me piace la serva"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Tony Maneiro"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Sparapaponzi"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Two to climb Ciociaria"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Ricatto morale"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Pelle di luna"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Limone elettronico"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "La bottega dei miracoli"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Gong"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Jimmy ballando"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Acquitrinio",
+	            "vie": [
+	                {
+	                    "grado": "6c",
+	                    "nome": "El diablo"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Elogio della follia"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "El matador"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "La musica del futuro"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Soft machine"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "L'orrido",
+	            "vie": [
+	                {
+	                    "grado": "6b",
+	                    "nome": "Stranaria"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Acqualung"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Banana moon"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "La stalla",
+	            "vie": [
+	                {
+	                    "grado": "6a+",
+	                    "nome": "E' passata una nuvola"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Pierrot e la luna"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Temporale rosa antico"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "La pianta del t\u00e8"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Pomeriggi di paese"
+	                }
+	            ]
+	        }
+	    ]
 	}
   ]
 }

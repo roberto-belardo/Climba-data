@@ -3572,6 +3572,106 @@
 	            ]
 	        }
 	    ]
+	},
+	{
+	    "accesso": "Prendere l'autostrada A1 Roma - Napoli e uscire ad Anangni-Fiuggi. Proseguire a destra sulla SS 155 in direzione Fiuggi per circa 12 kilometri e girare a sinistra per Aguto. Arrivati alla piazza di Acuto con la statua di Padre Pio, si prosegue in direzione cimitero e da li seguendo la strada in cemento in direzione del percorso naturalistico di Cesa Rotonda dove si può parcheggiare. Seguendo il sentiero a sinistra con la tipica indicazione rosso-bianco-rosso per circa 20 minuti si arriverà in falesia.",
+	    "descrizione": "Falesia ideale nelle calde giornata estive grazie al fresco dovuto all'altitudine (circa 800 mt).",
+		"lat": "41.8123589",
+	    "long": "13.1542187",
+	    "nome": "Acuto",
+	    "provincia": "Frosinone",
+	    "provinciaShort": "FR",
+	    "settori": [
+	        {
+	            "nome": "Placche di Pila Rocca",
+	            "vie": [
+	                {
+	                    "grado": "6b",
+	                    "nome": "Via delle streghe"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Carlo 2011"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Piglio 98"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Aurora team"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "I fuggiaschi"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Linea Gullich"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "L'araba fenicia"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Non stop"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Cucuruccuccu"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Paloma L2"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Pulce pelosa"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Lo svaso ribelle"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Valerio 2011"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Il balcone"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Super crack"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Guerre di eroi"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Cosmonauti"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Era moderna"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Mister no"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Canto libero"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Ice killer"
+	                }
+	            ]
+	        }
+	    ]
 	}
   ]
 }

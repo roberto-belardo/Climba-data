@@ -3672,6 +3672,415 @@
 	            ]
 	        }
 	    ]
+	},
+	{
+	    "accesso": "Per raggiungere la falesia di Norma si arriva a Latina Scalo da dove si seguono le indicazioni per Norma. Prima di arrivare in paese, dopo un tornante a sinistra si percorre il rettilineo fino quasi al suo termine e, parcheggiata l'auto, si imbocca un sentiero segnato che inizia in prossimità di un fico e porta alle pareti in 5 minuti.",
+	    "descrizione": "Norma si trova vicino alla bellissima oasi naturalistica di Ninfa che ospita un famoso orto botanico.",
+	    "lat": "41.5793",
+	    "long": "12.975238",
+	    "nome": "Norma",
+	    "provincia": "Latina",
+	    "provinciaShort": "LT",
+	    "settori": [
+	        {
+	            "nome": "Placche Rosse",
+	            "vie": [
+	                {
+	                    "grado": "5b",
+	                    "nome": "Hard lisc"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Melanio"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Drakulesco"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Eroe del silenzio"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "May day"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Iron man"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Salsa"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Merengue"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Tossicomane"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Jump"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Gabibbo"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Cagliostro"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Demolition girl"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Bunny e Clik"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Tex"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Pretty woman"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Lecca lecca"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Patriots"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Demolition man"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Cavalier tempesta"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Macchia nera"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Venti dell'est"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Biberon"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Il pensionato"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "La valle dell'eco"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "La clava"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Electric people"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Afterglow"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "La tana del geco"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "El perma"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Tempo"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Variante tempo"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Pioggia di luce"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Scusate i ritardi"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Trippegghi e Climborazzo"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Belfagor"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Over and over"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "One hundred de grace"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Licantropia"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Cocktail di scarpe"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Piange il telefonino"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Grande Allok"
+	                },
+	                {
+	                    "grado": "8a",
+	                    "nome": "Trapanetor"
+	                },
+	                {
+	                    "grado": "7c+",
+	                    "nome": "Geremia"
+	                },
+	                {
+	                    "grado": "7c",
+	                    "nome": "Via tutta mia"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Little frog"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Little frog diretta"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Come un lupo nella notte"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Strapiombetti"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Diedro rosso"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Spigolo del cactus"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Diedro di Roberto"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Betty blue"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Trakkillozzo"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Strapazzami"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Saponette"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Sandrokan e i pigrotti della falesia"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Variante"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Infrasettimanale"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Giovani rampolli"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "La pera"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Ferrante"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Festa di compleanno"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Nessuno \u00e8 perfetto"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "C.C.C.P."
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Perch\u00e8 no?"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Scout"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Spigolo del congedo"
+	                },
+	                {
+	                    "grado": "4b",
+	                    "nome": "Fess...urr\u00e0"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Moda"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Non mas"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Sulmo"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "L'albero nero"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Ursus"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "La puzzola"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Il ritorno del barman"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Lobotomy"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Space man"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Amadeus"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Nano nano"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "C'est la vie"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Regina della pioggia"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "No me siento"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Time out"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Il fachiro"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Fico d'India"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Rigel"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "M\u00f2 s\u00f2 cazzi"
+	                },
+	                {
+	                    "grado": "5b+",
+	                    "nome": "Perone"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Melone"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Tempio pagano",
+	            "vie": [
+	                {
+	                    "grado": "5a",
+	                    "nome": "Venere"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Eolo"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Tempio pagano"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Ara sacrificale"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Zeus"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Giunone"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Axur"
+	                }
+	            ]
+	        }
+	    ]
 	}
   ]
 }

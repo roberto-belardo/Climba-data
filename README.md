@@ -9,6 +9,7 @@ A community driven open source json database of italian climbing spots with sect
 - [What is Climba-data](#what-is-climba-data)
 - [What you can do with Climba-data](#what-you-can-do-with-climba-data)
  - [Project Structure](#project-structure)
+ - [Improvements](#improvements)
 - [Contributors](#contributors)
 - [Credits](#links)
 - [Copyright](#copyright)
@@ -39,6 +40,42 @@ Every climbing spot should have at least the following informations:
   - list of routes
     - route name
     - route grade
+
+### Improvements
+Here is a short list of suggested improvements that could be added to every crag, sector, route:
+
+#### Crag
+##### History
+> (String) Short notes about the history of the crag, when it was born, by who etc...
+
+Example:
+```json
+"history": "This crag was born in 1922..."
+```
+
+##### Authors
+> (List) Name and surname of who built the crag
+
+Example:
+```json
+"author": [
+ {name: "Mario", surname: "Rossi", nickname:"red"},
+ {name: "Carlo", surname: "Bianchi", nickname:"white"}
+]
+```
+
+##### Notes
+> (String) Special noteson the crag
+
+Example
+Example:
+```json
+"notes": "Pay attention to the birds during the winter because ..."
+```
+
+#### Sector
+
+#### Route
 
 ## Contributors
 <a href="https://twitter.com/robertobelardo" target="_blank"><img src="https://avatars3.githubusercontent.com/u/43101?v=2&s=96" alt="Roberto Belardo"></a>  

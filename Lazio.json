@@ -6475,6 +6475,332 @@
 	            ]
 	        }
 	    ]
+	},
+	{
+	    "accesso": "Una volta passato il casello di Roma est dell’A24 in 40 minuti siete arrivati alla falesia di Subiaco (uscita Vicovaro). Arrivare è semplice: si attraversa Subiaco e si segue la stradina per le Tombe di Nerone sulla sinistra. Dopo pochi chilometri che si costeggia il fiume Aniene, si nota sulla sinistra una scalinata in cemento (con anche la bandierina dipinta di inizio sentiero). Si parcheggia a bordo strada e un altro elemento per capire che si è arrivati è il monastero che si erge sulla sinistra il cui costone di roccia che lo sovrasta è l’anteprima della roccia che affronterete in giornata. Si prende la scalinata e si segue il tracciato evidente andando a vista per le pareti. L’avvicinamento è dei più 'ardui', circa 5 minuti di passeggiata. L’arrivo è determinato da corde fisse e a quel punto gli spit sono sparsi a destra e a sinistra, su una trentina di vie circa.",
+	    "descrizione": "Subiaco è una cittadina famosa per i suoi monasteri Benedettini letteralmente incastonati nelle pareti calcaree. Calcare a canne e buchi prevalentemente strapiombante al settore 'Le scalette', poche le vie tecniche. Arrampicata old style su muri leggermente strapiombanti al settore 'La segheria'.",
+	    "lat": "41.9246531",
+	    "long": "13.0936685",
+	    "nome": "Subiaco",
+	    "provincia": "Roma",
+	    "provinciaShort": "RM",
+	    "settori": [
+	        {
+	            "nome": "Grotta del frate",
+	            "vie": [
+	                {
+	                    "grado": "8a",
+	                    "nome": "Akronika"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Krug"
+	                },
+	                {
+	                    "grado": "8b+",
+	                    "nome": "Gnanz\u00f9"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Regno dei Ragni",
+	            "vie": [
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Senza nome 1"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Senza nome 2"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Strumento di benessere"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Ad occhi chiusi L1"
+	                },
+	                {
+	                    "grado": "8a",
+	                    "nome": "Ad occhi chiusi L2"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Il Turco"
+	                },
+	                {
+	                    "grado": "8a+",
+	                    "nome": "Aji Musa"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Gommolo"
+	                },
+	                {
+	                    "grado": "8b+",
+	                    "nome": "La storia infinita"
+	                },
+	                {
+	                    "grado": "8a+",
+	                    "nome": "Sacro Speco"
+	                },
+	                {
+	                    "grado": "8b",
+	                    "nome": "La Tana"
+	                },
+	                {
+	                    "grado": "8b+",
+	                    "nome": "unchio"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Fidanzatodromo",
+	            "vie": [
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Ringhio"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Rapsody"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Ammazzafidanzate"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Medioman"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Pickpoket"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Ium!"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Electra"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Le Scalette",
+	            "vie": [
+	                {
+	                    "grado": "7a",
+	                    "nome": "Cromofobia"
+	                },
+	                {
+	                    "grado": "8a+",
+	                    "nome": "Cromofobia extension"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Point break"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Point break extension"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Atomic Caf\u00e8"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Atomic Caf\u00e8 extension"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Twin"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Callifora (Calliphora)"
+	                },
+	                {
+	                    "grado": "8c",
+	                    "nome": "Calliphora extension"
+	                },
+	                {
+	                    "grado": "8b",
+	                    "nome": "Platoon"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Don't touch me"
+	                },
+	                {
+	                    "grado": "7c+",
+	                    "nome": "Ever Green"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Mister dammi tempo (Mr dammitempo)"
+	                },
+	                {
+	                    "grado": "7c",
+	                    "nome": "Tropical dance"
+	                },
+	                {
+	                    "grado": "7c",
+	                    "nome": "Make me happy"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Rombo di tuono"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Shaka zulu"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Vai col liscio"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Mille note L1"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Mille note L2"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "City"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Capriccio L1"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Capriccio L2"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Duracell L1"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Duracell L2"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Api assassine L1"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Api assassine L2"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Scalda budella"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "La Segheria - Prima Cengia",
+	            "vie": [
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Diffamazione"
+	                },
+	                {
+	                    "grado": "7c",
+	                    "nome": "Infinity"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Temporary Road"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "La Segheria - Seconda Cengia",
+	            "vie": [
+	                {
+	                    "grado": "6b",
+	                    "nome": "Senza nome 1"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Quinto movimento"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "La sacra sindrome"
+	                },
+	                {
+	                    "grado": "8a",
+	                    "nome": "Supernatural"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Pegasus"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Un cazzo e un barattolo"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "La grotta",
+	            "vie": [
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Tequila Light"
+	                },
+	                {
+	                    "grado": "8a",
+	                    "nome": "Tequila sunrise"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Caos caff\u00e8"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Promessi paperi"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Er colino"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Sbriciolona"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Scivola scivola"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Cicas"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "No tu no"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Nicchio"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Chupito"
+	                }
+	            ]
+	        }
+	    ]
 	}
   ]
 }

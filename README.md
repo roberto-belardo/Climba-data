@@ -53,6 +53,14 @@ Example:
 "history": "This crag was born in 1922..."
 ```
 
+##### Rock Type
+> (String) Rock typology
+
+Example:
+```json
+"rock_type": "limestone"
+```
+
 ##### Authors
 > (List) Name and surname of who built the crag
 
@@ -74,8 +82,62 @@ Example:
 ```
 
 #### Sector
+##### History
+> (String) Short notes about the history of the sector, when it was born, by who etc...
+
+Example:
+```json
+"history": "This crag was born in 1922..."
+```
+
+##### Authors
+> (List) Name and surname of who built the sector
+
+Example:
+```json
+"authors": [
+ {name: "Mario", surname: "Rossi", nickname:"red"},
+ {name: "Carlo", surname: "Bianchi", nickname:"white"}
+]
+```
+
+##### Notes
+> (String) Special noteson the crag
+
+Example
+Example:
+```json
+"notes": "Pay attention to the birds during the winter because ..."
+```
 
 #### Route
+##### Authors
+> (List) Name and surname of who built the route
+
+Example:
+```json
+"authors": [
+ {name: "Mario", surname: "Rossi", nickname:"red"},
+ {name: "Carlo", surname: "Bianchi", nickname:"white"}
+]
+```
+
+##### Length
+> (Number) Length of the route expressed in meters.
+
+Example:
+```json
+"length": "22"
+```
+
+##### Notes
+> (String) Special noteson the route
+
+Example
+Example:
+```json
+"notes": "Pay attention to the last spit because is very old..."
+```
 
 ## Contributors
 <a href="https://twitter.com/robertobelardo" target="_blank"><img src="https://avatars3.githubusercontent.com/u/43101?v=2&s=96" alt="Roberto Belardo"></a>  

@@ -1,4 +1,446 @@
 {
   "nome_regione": "Abruzzo",
-  "falesie":[]
+  "falesie":[
+	  {
+	      "accesso": "Prendere l'autostrada A24 Roma - L'Aquila, uscita Carsoli, poi svoltare a sinistra seguendo le indicazione per Pietrasecca. Lasciare la macchina nel parcheggio sotto la parete sul lato destro della strada.",
+	      "descrizione": "La falesia di Pietrasecca si trova esattamente sotto il paese omonimo nella Valle Marino e vanta circa 70 vie dal 5a fino al 8c, con numerosi 6a/b. Questa storica falesia è situata a circa 800m e caratterizzata da un forte ed evidente strapiombo ed un'arrampicata sempre tecnica e mai banale. Negli ultimi anni la falesia è stata riatrezzata grazie soprattutto al lavoro dell'associazion Yama, e di recente è tornata alla ribalta con 'Shanghai', un vecchio progetto liberato nel giungo 2008 da Roberto delle Fratte a 8c. Rimane ancora aperta la sfida nel grande strapiombo: 'La Morte', un progetto non ancora liberato e il prossimo obiettivo per i locals.",
+	      "lat": "42.1348133",
+	      "long": "13.1252224",
+	      "nome": "Pietrasecca",
+	      "provincia": "L'Aquila",
+	      "provinciaShort": "AQ",
+	      "settori": [
+	          {
+	              "nome": "Vena Viva",
+	              "vie": [
+	                  {
+	                      "grado": "6c",
+	                      "nome": "Matrix L1"
+	                  },
+	                  {
+	                      "grado": "6b+",
+	                      "nome": "Matrix L2"
+	                  },
+	                  {
+	                      "grado": "6b+",
+	                      "nome": "Zeta la formica L1"
+	                  },
+	                  {
+	                      "grado": "6b",
+	                      "nome": "Zeta la formica L2"
+	                  },
+	                  {
+	                      "grado": "7b+",
+	                      "nome": "Terminator L1"
+	                  },
+	                  {
+	                      "grado": "6c+",
+	                      "nome": "Terminator L2"
+	                  },
+	                  {
+	                      "grado": "7a",
+	                      "nome": "Arancia meccanica L1"
+	                  },
+	                  {
+	                      "grado": "6c+",
+	                      "nome": "Arancia meccanica L2"
+	                  },
+	                  {
+	                      "grado": "6a",
+	                      "nome": "Alien L1"
+	                  },
+	                  {
+	                      "grado": "6a",
+	                      "nome": "Alien L2"
+	                  },
+	                  {
+	                      "grado": "Sconosciuto",
+	                      "nome": "Alien L1 + L2"
+	                  },
+	                  {
+	                      "grado": "7a+",
+	                      "nome": "Orient express"
+	                  },
+	                  {
+	                      "grado": "8a+",
+	                      "nome": "Spartacus"
+	                  },
+	                  {
+	                      "grado": "7c",
+	                      "nome": "Il signore degli anelli"
+	                  },
+	                  {
+	                      "grado": "6b",
+	                      "nome": "L'urlo L1"
+	                  },
+	                  {
+	                      "grado": "6a+",
+	                      "nome": "L'urlo L2"
+	                  },
+	                  {
+	                      "grado": "6b",
+	                      "nome": "L'urlo L3"
+	                  },
+	                  {
+	                      "grado": "5a",
+	                      "nome": "L'urlo L4"
+	                  },
+	                  {
+	                      "grado": "6b",
+	                      "nome": "L'ultimo cavaliere"
+	                  },
+	                  {
+	                      "grado": "6a",
+	                      "nome": "Sarda zippi"
+	                  }
+	              ]
+	          },
+	          {
+	              "nome": "Settore principale",
+	              "vie": [
+	                  {
+	                      "grado": "6c",
+	                      "nome": "Si puo' fare"
+	                  },
+	                  {
+	                      "grado": "7a+",
+	                      "nome": "Scaramuccia"
+	                  },
+	                  {
+	                      "grado": "6b",
+	                      "nome": "Safari Park"
+	                  },
+	                  {
+	                      "grado": "6a",
+	                      "nome": "Marina"
+	                  },
+	                  {
+	                      "grado": "5c",
+	                      "nome": "Silvia"
+	                  },
+	                  {
+	                      "grado": "6b",
+	                      "nome": "Tic tac L1"
+	                  },
+	                  {
+	                      "grado": "6b+",
+	                      "nome": "Equilibri precari"
+	                  },
+	                  {
+	                      "grado": "7a+",
+	                      "nome": "Berhaultmania"
+	                  },
+	                  {
+	                      "grado": "8a",
+	                      "nome": "Vaimo'"
+	                  },
+	                  {
+	                      "grado": "8c",
+	                      "nome": "La morte L2"
+	                  },
+	                  {
+	                      "grado": "7b",
+	                      "nome": "Lola Falana"
+	                  },
+	                  {
+	                      "grado": "7c",
+	                      "nome": "Ordine nuovo"
+	                  },
+	                  {
+	                      "grado": "8c",
+	                      "nome": "Shangai"
+	                  },
+	                  {
+	                      "grado": "7c",
+	                      "nome": "Polifemo"
+	                  },
+	                  {
+	                      "grado": "6c+",
+	                      "nome": "Strapiombami sui bicipiti L1"
+	                  },
+	                  {
+	                      "grado": "8a+",
+	                      "nome": "La vita L2"
+	                  },
+	                  {
+	                      "grado": "6b+",
+	                      "nome": "Calipso"
+	                  },
+	                  {
+	                      "grado": "6c",
+	                      "nome": "Nemo"
+	                  },
+	                  {
+	                      "grado": "7a+",
+	                      "nome": "Nemo uscita diretta"
+	                  },
+	                  {
+	                      "grado": "6b+",
+	                      "nome": "Nasce Lollo"
+	                  },
+	                  {
+	                      "grado": "6c",
+	                      "nome": "Eppoi Lolletto"
+	                  },
+	                  {
+	                      "grado": "7c",
+	                      "nome": "Aridatece la Gioconda"
+	                  },
+	                  {
+	                      "grado": "7c",
+	                      "nome": "Stretching per un nano"
+	                  },
+	                  {
+	                      "grado": "7c",
+	                      "nome": "Bouldermania"
+	                  },
+	                  {
+	                      "grado": "7c",
+	                      "nome": "Jokerman"
+	                  },
+	                  {
+	                      "grado": "7b",
+	                      "nome": "Rana gastrica"
+	                  },
+	                  {
+	                      "grado": "7c",
+	                      "nome": "Merdacce"
+	                  },
+	                  {
+	                      "grado": "6c+",
+	                      "nome": "Mary"
+	                  },
+	                  {
+	                      "grado": "6c",
+	                      "nome": "Le bugie hanno le gambe corte"
+	                  },
+	                  {
+	                      "grado": "6b+",
+	                      "nome": "Uragano"
+	                  },
+	                  {
+	                      "grado": "6b+",
+	                      "nome": "So ito pe stracci"
+	                  },
+	                  {
+	                      "grado": "5c",
+	                      "nome": "Gemella di sinistra"
+	                  },
+	                  {
+	                      "grado": "5c+",
+	                      "nome": "Gemella di destra"
+	                  },
+	                  {
+	                      "grado": "4b",
+	                      "nome": "Se vi va!"
+	                  },
+	                  {
+	                      "grado": "6a",
+	                      "nome": "Se vi va! extension"
+	                  },
+	                  {
+	                      "grado": "5c+",
+	                      "nome": "Miriam"
+	                  },
+	                  {
+	                      "grado": "6a",
+	                      "nome": "Lama non lama L1"
+	                  },
+	                  {
+	                      "grado": "6c",
+	                      "nome": "Lama non lama L2"
+	                  },
+	                  {
+	                      "grado": "6a+",
+	                      "nome": "Lotar"
+	                  },
+	                  {
+	                      "grado": "7a",
+	                      "nome": "Fasa"
+	                  },
+	                  {
+	                      "grado": "7b+",
+	                      "nome": "Cannolo siciliano"
+	                  },
+	                  {
+	                      "grado": "7c",
+	                      "nome": "Jab"
+	                  },
+	                  {
+	                      "grado": "7b+",
+	                      "nome": "Eresia"
+	                  },
+	                  {
+	                      "grado": "8a+",
+	                      "nome": "Siddharta"
+	                  },
+	                  {
+	                      "grado": "7a+",
+	                      "nome": "Nick di Bari"
+	                  },
+	                  {
+	                      "grado": "7c+",
+	                      "nome": "Ribelli urlanti"
+	                  },
+	                  {
+	                      "grado": "7a",
+	                      "nome": "Leaders in sindrome"
+	                  },
+	                  {
+	                      "grado": "5c+",
+	                      "nome": "Je vais"
+	                  },
+	                  {
+	                      "grado": "6b",
+	                      "nome": "Yama"
+	                  },
+	                  {
+	                      "grado": "6c+",
+	                      "nome": "Eos"
+	                  },
+	                  {
+	                      "grado": "6c",
+	                      "nome": "Auguri Veronica"
+	                  },
+	                  {
+	                      "grado": "6a+",
+	                      "nome": "Pietraseckante"
+	                  },
+	                  {
+	                      "grado": "5c",
+	                      "nome": "Pontini in trasferta"
+	                  },
+	                  {
+	                      "grado": "7a",
+	                      "nome": "Auto...stima"
+	                  },
+	                  {
+	                      "grado": "6c+",
+	                      "nome": "Appiglio prezioso"
+	                  },
+	                  {
+	                      "grado": "6b",
+	                      "nome": "Classica"
+	                  },
+	                  {
+	                      "grado": "6c",
+	                      "nome": "Nata al sole"
+	                  },
+	                  {
+	                      "grado": "6c",
+	                      "nome": "Solengo"
+	                  },
+	                  {
+	                      "grado": "7a+",
+	                      "nome": "La mia rovina"
+	                  },
+	                  {
+	                      "grado": "7b",
+	                      "nome": "Caro Federico"
+	                  },
+	                  {
+	                      "grado": "6a",
+	                      "nome": "Sembra facile"
+	                  },
+	                  {
+	                      "grado": "6c+",
+	                      "nome": "Placca di Danser L2"
+	                  },
+	                  {
+	                      "grado": "5c",
+	                      "nome": "Danser in the sky L2"
+	                  },
+	                  {
+	                      "grado": "8a+",
+	                      "nome": "Service apr\u00e8s vente"
+	                  },
+	                  {
+	                      "grado": "7a",
+	                      "nome": "Il cordino di Paola"
+	                  },
+	                  {
+	                      "grado": "6c+",
+	                      "nome": "La mossa"
+	                  },
+	                  {
+	                      "grado": "6a+",
+	                      "nome": "Sotto la pioggia"
+	                  },
+	                  {
+	                      "grado": "7a+",
+	                      "nome": "Il volpone rampante L2"
+	                  },
+	                  {
+	                      "grado": "6a",
+	                      "nome": "A sinistra del televisore"
+	                  },
+	                  {
+	                      "grado": "6b",
+	                      "nome": "Mannaggia all'ortolano L2"
+	                  },
+	                  {
+	                      "grado": "5a",
+	                      "nome": "I bloccati"
+	                  },
+	                  {
+	                      "grado": "5c",
+	                      "nome": "Franziskaner e noccioline L2"
+	                  },
+	                  {
+	                      "grado": "6a",
+	                      "nome": "La grande fuga"
+	                  },
+	                  {
+	                      "grado": "6a",
+	                      "nome": "Rick e Tack"
+	                  },
+	                  {
+	                      "grado": "7a+",
+	                      "nome": "Cardo maximo"
+	                  },
+	                  {
+	                      "grado": "7b",
+	                      "nome": "4 marzo 1943"
+	                  },
+	                  {
+	                      "grado": "7b",
+	                      "nome": "Quelli che il mercoledi'..."
+	                  },
+	                  {
+	                      "grado": "7b+",
+	                      "nome": "La valigia di cartone"
+	                  },
+	                  {
+	                      "grado": "7b",
+	                      "nome": "My architect"
+	                  },
+	                  {
+	                      "grado": "6c",
+	                      "nome": "Arrivederci Moneta"
+	                  },
+	                  {
+	                      "grado": "5c+",
+	                      "nome": "Carbonella"
+	                  },
+	                  {
+	                      "grado": "6b+",
+	                      "nome": "Lo scorpione"
+	                  },
+	                  {
+	                      "grado": "5b",
+	                      "nome": "Croce e delizia"
+	                  },
+	                  {
+	                      "grado": "5c",
+	                      "nome": "Miss Magoo"
+	                  },
+	                  {
+	                      "grado": "6a+",
+	                      "nome": "Buongiorno Pietrasecca"
+	                  }
+	              ]
+	          }
+	      ]
+	  }
+  ]
 }

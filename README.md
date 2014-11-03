@@ -37,8 +37,8 @@ Every climbing spot should have at least the following informations:
  - List of sectors
   - sector name
   - list of routes
-   - route name
-   - route grade
+    - route name
+    - route grade
 
 ## Contributors
 <a href="https://twitter.com/robertobelardo" target="_blank"><img src="https://avatars3.githubusercontent.com/u/43101?v=2&s=96" alt="Roberto Belardo"></a>  

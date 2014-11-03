@@ -3576,8 +3576,8 @@
 	{
 	    "accesso": "Prendere l'autostrada A1 Roma - Napoli e uscire ad Anangni-Fiuggi. Proseguire a destra sulla SS 155 in direzione Fiuggi per circa 12 kilometri e girare a sinistra per Aguto. Arrivati alla piazza di Acuto con la statua di Padre Pio, si prosegue in direzione cimitero e da li seguendo la strada in cemento in direzione del percorso naturalistico di Cesa Rotonda dove si può parcheggiare. Seguendo il sentiero a sinistra con la tipica indicazione rosso-bianco-rosso per circa 20 minuti si arriverà in falesia.",
 	    "descrizione": "Falesia ideale nelle calde giornata estive grazie al fresco dovuto all'altitudine (circa 800 mt).",
-		"lat": "41.8123589",
-	    "long": "13.1542187",
+		"lat": "41.7925",
+	    "long": "13.1753",
 	    "nome": "Acuto",
 	    "provincia": "Frosinone",
 	    "provinciaShort": "FR",
@@ -6004,6 +6004,473 @@
 	                {
 	                    "grado": "6c",
 	                    "nome": "Baby doll"
+	                }
+	            ]
+	        }
+	    ]
+	},
+	{
+	    "accesso": "Venendo da Roma superare Terracina e Sperlonga (direzione Gaeta) superare le 4 gallerie che portano alla Piana di S. Agostino, alcune centinaia di m. sulla sx si trova 'Guido il mozzarellaro' oltrepassarlo di circa 300 m. e girare a sx in via S. Agostino e quindi subito a sx in una stradina che si percorre per qualche centinaio di m. girando poi a dx alla biforcazione, parcheggiare poco prima di una casa bianca.La falesia ha una forma semi circolare, il settore qui descritto(boca de cielo)\u00e8 alla dx della evidente 'grotta delle marmotte' e si raggiunge in 10 min. di cammino.",
+	    "descrizione": "Quattro piccoli settori compongono questa falesia, che si sviluppa lungo l'arco di un anfiteatro roccioso, ognuno dei quali ha da offrire vie di molto interessanti. Lungo la stradina di accesso sulla destra incontriamo subito il settore 'Ojo de sol', in ombra d\u2019estate, che presenta una arrampicata atletica su calcare bianco. Oggi purtroppo il settore risulta abbandonato. Proseguendo in fondo alla strada d\u2019accesso, il sentiero a sinistra conduce al settore 'Pale' con tipici itinerari di placca \u201csperlonghiana\u201d, a destra si arriva al settore 'Pueblo', con arrampicata atletica anche in forte strapiombo. Proseguendo dalla Grotta delle marmotte, cuore del settore 'Pueblo', in due minuti, si raggiunge 'Boca de cielo' che ha da offrire delle interessanti salite in placcha non molto lunghe ma intense.",
+	    "lat": "41.6552418",
+	    "long": "12.989615",
+	    "nome": "Pueblo",
+	    "provincia": "Latina",
+	    "provinciaShort": "LT",
+	    "settori": [
+	        {
+	            "nome": "Boca de Cielo",
+	            "vie": [
+	                {
+	                    "grado": "6a",
+	                    "nome": "Variante (a)variata"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Highlander"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Fantasilandia"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Naked"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Jack Goccetta"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Variando un po'"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Il mostro"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Ciociaro in vacanza"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Samatari"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Donna morfina"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Le tre Grazie"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "L'isola dei dannati"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Galadriel"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Grande massa"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Piccola massa"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Massi"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Massetti"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Poppins"
+	                },
+	                {
+	                    "grado": "5a+",
+	                    "nome": "Chimera"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "El Pueblo",
+	            "vie": [
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Alturas"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Toure Kunda"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Sally"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "On sight per un ospite"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Indietro tutta"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Reverso perverso"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "La festa di piero"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Lo scaglione"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Repetita juvant"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Alito pensante"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Carie L1"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Carie L1 +L2"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Per le foto"
+	                },
+	                {
+	                    "grado": "7c+",
+	                    "nome": "S.R.V."
+	                },
+	                {
+	                    "grado": "8a+",
+	                    "nome": "Bolero"
+	                },
+	                {
+	                    "grado": "Sconosciuto",
+	                    "nome": "Nonno grado"
+	                },
+	                {
+	                    "grado": "8a+",
+	                    "nome": "Colera"
+	                },
+	                {
+	                    "grado": "8b",
+	                    "nome": "Maiale deh"
+	                },
+	                {
+	                    "grado": "8a+",
+	                    "nome": "Possession"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Il culto"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Stati di perplimazione"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Nemesis"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Io, Chiara e lo Scuro"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Un appiglio per Cicciolina"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Il vizietto di Lorena Bobbit"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Diva"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Effetti personali"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Canfora"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Soul express"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Willy Coyote"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Monos ditos"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Alla reversa"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "La Pala",
+	            "vie": [
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Senza nome 1"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Senza nome 2"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Cachiro"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Manolete"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Belmonte"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Cortes"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Mantilla"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Gazpacho"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Tapas"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Giralda"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Alcazar"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "La comida"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Nutella nutella"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Bbnanna"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "King of blue"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Body and soul"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Acthung baby"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Pobre muchacho"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Crisalis"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Jamin-a"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Mi alma"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Ramsex"
+	                },
+	                {
+	                    "grado": "5a",
+	                    "nome": "Biancaneve"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Salsiccio meticcio"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Vlora"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Il glande fratello"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Oggi non \u00e8 aria"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Atlandide"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "Scusate il ritardo"
+	                },
+	                {
+	                    "grado": "5c+",
+	                    "nome": "El caiman"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Spigolo di Fantomas"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Nicola il grande"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Rasputin"
+	                },
+	                {
+	                    "grado": "5b",
+	                    "nome": "Paperon dei peperoni"
+	                },
+	                {
+	                    "grado": "4c",
+	                    "nome": "Todo modo"
+	                },
+	                {
+	                    "grado": "4a",
+	                    "nome": "Primi passi"
+	                },
+	                {
+	                    "grado": "6b",
+	                    "nome": "Prozac"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "La presa della pastiglia"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Bullit"
+	                }
+	            ]
+	        },
+	        {
+	            "nome": "Ojo del sol",
+	            "vie": [
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Sing a song an make me strong"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Gallows pole"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "The black death"
+	                },
+	                {
+	                    "grado": "6a+",
+	                    "nome": "Luke sky hook"
+	                },
+	                {
+	                    "grado": "5c",
+	                    "nome": "Alien"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "La monaca di lonza"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Camarillo brillo"
+	                },
+	                {
+	                    "grado": "6a",
+	                    "nome": "Zombi woof"
+	                },
+	                {
+	                    "grado": "6c",
+	                    "nome": "Mefistofele"
+	                },
+	                {
+	                    "grado": "6b+",
+	                    "nome": "Cercopiteco"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Vivendo un momento di quiete"
+	                },
+	                {
+	                    "grado": "7c",
+	                    "nome": "Trogloditi"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Dark"
+	                },
+	                {
+	                    "grado": "7a",
+	                    "nome": "Ohib\u00f2"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Bluff"
+	                },
+	                {
+	                    "grado": "7b",
+	                    "nome": "Vai Menego"
+	                },
+	                {
+	                    "grado": "7a+",
+	                    "nome": "Ultimi eroi"
+	                },
+	                {
+	                    "grado": "6c+",
+	                    "nome": "Jacknife"
+	                },
+	                {
+	                    "grado": "7b+",
+	                    "nome": "Sali ti che a mi me vien da ridere"
 	                }
 	            ]
 	        }

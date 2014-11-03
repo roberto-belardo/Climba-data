@@ -58,7 +58,7 @@ Example:
 
 Example:
 ```json
-"author": [
+"authors": [
  {name: "Mario", surname: "Rossi", nickname:"red"},
  {name: "Carlo", surname: "Bianchi", nickname:"white"}
 ]
